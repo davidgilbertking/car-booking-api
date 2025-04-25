@@ -14,7 +14,7 @@ REST API для корпоративной системы бронировани
 ## 🚀 Установка и запуск
 
 ```bash
-git clone https://github.com/your-username/car-booking-api.git
+git clone https://github.com/davidgilbertking/car-booking-api.git
 cd car-booking-api
 composer install
 cp .env.example .env
